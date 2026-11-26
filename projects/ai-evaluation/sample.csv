@@ -1,0 +1,4 @@
+case_id,accuracy,adherence,clarity,critical,note
+A01,2,2,2,no,Fully meets fictional rubric
+A02,1,2,1,no,Unsupported detail and unclear wording
+A03,2,2,2,yes,Illustrative critical-error override
