@@ -2,7 +2,11 @@
 
 **AI evaluation · Data annotation · Research quality · Robotics and systems thinking**
 
-Based in Kenya, I am interested in building reliable AI systems through structured evaluation, evidence-based research and careful data quality review. This portfolio contains original demonstration projects and working templates for assessing model outputs, documenting errors and making results reproducible.
+Based in Kenya, I am interested in building reliable AI systems through structured evaluation, evidence-based research and careful data quality review.
+
+## Portfolio website
+
+[View the portfolio source](index.html). Open `index.html` in a modern browser to explore the responsive portfolio, filter projects, and try the interactive AI response quality gate. No API keys or external dependencies are required.
 
 ## Selected projects
 
@@ -15,15 +19,11 @@ Based in Kenya, I am interested in building reliable AI systems through structur
 
 ## Skills and interests
 
-- AI output evaluation: accuracy, instruction adherence, reasoning quality and error categorization.
-- Research: evidence synthesis, source verification, reproducibility and uncertainty reporting.
-- Data annotation: rubric-based labeling, quality auditing and reviewer calibration.
-- Systems and robotics: interface requirements, verification planning and sensor-data quality.
-- Technical communication: concise findings, actionable remediation and decision-ready documentation.
-
-## Selected outcomes
-
-The included demonstration cases show how to identify unsupported claims, distinguish critical from minor defects, quantify label agreement and connect verification results to requirements. They do not represent client results or measured production improvements.
+- AI output evaluation, error categorization and human oversight
+- Evidence synthesis, reproducibility and uncertainty reporting
+- Rubric-based labeling, quality auditing and reviewer calibration
+- Robotics verification planning and sensor-data quality
+- Clear, decision-ready technical documentation
 
 ## Run the evaluation demo
 
@@ -34,10 +34,10 @@ python projects/ai-evaluation/evaluate.py
 python -m unittest discover -s projects/ai-evaluation -p "test_*.py"
 ```
 
-## Portfolio development
+## Hosting
 
-- [ ] Add approved, anonymized examples of completed work.
-- [ ] Add verified project metrics and evidence links.
-- [ ] Add professional contact or website link.
+The static portfolio is ready for GitHub Pages: select **Settings → Pages**, then deploy from the root of the `main` branch.
 
-All examples are illustrative and use synthetic or fictional data. No confidential client information is included.
+All examples are illustrative and use synthetic or fictional data. They do not represent client results or measured production improvements.
+
+[GitHub profile](https://github.com/samiewahome2-ui)
