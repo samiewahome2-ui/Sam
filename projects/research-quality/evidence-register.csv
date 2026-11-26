@@ -1,0 +1,3 @@
+claim_id,claim,population,comparator,source_id,status,limitations,decision
+R01,Illustrative model exceeded baseline,Synthetic test set,Version A,DEMO-01,partial,Source not attached,hold
+R02,Illustrative rollout recommendation,Synthetic test set,Version A,DEMO-02,unsupported,No deployment evidence,hold
